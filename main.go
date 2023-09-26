@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"net/http"
-	"template/controller"
+	"{{.Name}}/controller"
 )
 
 
